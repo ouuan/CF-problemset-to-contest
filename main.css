@@ -1,4 +1,4 @@
-@-moz-document regexp("https://(codeforces\\.com|codeforc\\.es)/problemset/problem/[1-9][0-9]*/[A-Z][0-9]?") {
+@-moz-document regexp("*://(codeforces\\.com|codeforc\\.es)/problemset/problem/[1-9][0-9]*/[A-Z][0-9]?") {
 body {
     display: none;
 }

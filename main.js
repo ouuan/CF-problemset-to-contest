@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         CF problemset to contest
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      2.1
 // @description  Display CF problems in the contest field instead of problemset
 // @author       ouuan
-// @match        https://codeforces.com/problemset*
-// @match        https://codeforc.es/problemset*
+// @match        *://codeforces.com/problemset*
+// @match        *://codeforc.es/problemset*
 // @grant        none
 // ==/UserScript==
 
